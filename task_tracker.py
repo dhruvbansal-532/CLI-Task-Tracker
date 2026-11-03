@@ -1,7 +1,7 @@
 import json
 import os
 
-print("TASK TRACKER")
+print("=============== TASK TRACKER ===============\n")
 
 choice='0'
 def display_tasks():
@@ -85,6 +85,7 @@ def edit_tasks():
     print('')
 
 def task_summary():
+    print('\nTASK SUMMARY')
     total_tasks = len(tasks)
     completed_tasks=0
     for elt in tasks:
