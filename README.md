@@ -73,7 +73,7 @@ git clone https://github.com/dhruvbansal-532/CLI-Task-Tracker.git
 **2. Navigate to the project directory**
 
 ```bash
-cd Task-Tracker
+cd CLI-Task-Tracker
 ```
 
 **3. Run the application**
@@ -142,11 +142,11 @@ The application also handles missing and corrupted JSON files. When corrupted da
 ## 📂 Project Structure
 
 ```text
-Task-Tracker/
+CLI-Task-Tracker/
 │
 ├── task_tracker.py
 ├── README.md
-├── tasks.json
+├── .gitignore
 │
 └── screenshots/
     ├── menu.png
