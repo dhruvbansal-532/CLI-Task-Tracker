@@ -36,19 +36,15 @@ It also uses **JSON file handling** to store task information permanently, so yo
 
 ## 🖥️ Screenshots
 
-Take a look at the application in action!
+Here is a glimpse of CLI Task Tracker in action.
 
-### 1. Main Menu
-![Main Menu](screenshots/menu.png)
+| 🏠 Main Menu | 📋 Task List |
+|:---:|:---:|
+| ![Main Menu](screenshots/menu.png) | ![Task List](screenshots/tasks-list.png) |
 
-### 2. Task List
-![Task List](screenshots/tasks-list.png)
-
-### 3. Task Summary
-![Task Summary](screenshots/tasks-summary.png)
-
-### 4. Search Results
-![Search Results](screenshots/search-results.png)
+| 📊 Task Summary | 🔍 Search Results |
+|:---:|:---:|
+| ![Task Summary](screenshots/task-summary.png) | ![Search Results](screenshots/search-results.png) |
 
 ## ⚙️ Technologies Used
 
@@ -71,7 +67,7 @@ Follow these steps to run the project on your local machine.
 **1. Clone the repository**
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/dhruvbansal-532/CLI-Task-Tracker.git
 ```
 
 **2. Navigate to the project directory**
