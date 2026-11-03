@@ -44,7 +44,7 @@ Here is a glimpse of CLI Task Tracker in action.
 
 | 📊 Task Summary | 🔍 Search Results |
 |:---:|:---:|
-| ![Task Summary](screenshots/task-summary.png) | ![Search Results](screenshots/search-results.png) |
+| ![Task Summary](screenshots/tasks-summary.png) | ![Search Results](screenshots/search-results.png) |
 
 ## ⚙️ Technologies Used
 
